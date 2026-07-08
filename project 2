@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 2</title>
+  
+</head>
+<body>
+    <div ><header style="background-color:rgb(4, 3, 63);" width="100%"> 
+<a href="" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="color: rgb(25, 255, 83);">About The Restaurant</a>
+<a href="" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="color: rgb(202, 101, 18);">Menu</a>
+<a href="" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="color: rgb(25, 255, 83);">Contact Us</a>
+<a href="" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="color: rgb(25, 255, 83);">Order</a>
+<hr style="border-bottom:10px solid #000 padding-bottom: 10px line: width 10px;">
+</header>
+</div>
+<nav>
+    <div style="background-color: brown;">
+ <h1>     MENU    </h1>
+    </div>
+</nav>
+<style>  body {background-color:rgb(4, 3, 63)} </style>
+<main style="color:darkturquoise"
+   <section><strong> PIZZAS </strong> </section>
+  <article> <ul>
+    <li> Marguerita  (500DA)</li>
+    <li> Vegetarian  (500DA)</li>
+    <li> Pepperoni    (600DA)</li> 
+    <li> Hawaiian     (700DA)</li>
+    <li> Forestian    (600DA)</li>
+    <li> Special Pizza(900DA)</li>
+   </ul></article>
+</main>
+<aside style="display:flex; flex-direction:column; align-items:center; background-color:yellowgreen; padding: 15px;">
+    <strong> Burgers </strong>
+    <ul>
+        <li> Cheeseburger (400DA)</li>
+        <li> Chicken Burger (500DA)</li>
+        <li> Veggie Burger  (400DA)</li>    
+        <li> Bacon Burger   (600DA)</li>   <img src="https://www.google.com/search?q=mcdonalds+BACON+BURGER+photo&oq=mcdonalds+BACON+BURGER+photo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAHSAQkxMjE5NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#sv=CAMSZxowKg5qelFfT1FHY1VsUGl3TTIOanpRX09RR2NVbFBpd006DnMyTlZUV1lsU0pMSm1NIAQqLwobX0hZNU9hdlhpSk9feGktZ1B2Y2FFLUFjXzQ3Eg5qelFfT1FHY1VsUGl3TRgAMAEYByCQo6O9BEoIEAEYASABKAE" alt="">
+        <li> Double Burger  (700DA)</li>
+        <li> Smash Burger   (800DA)</li>
+    </ul>
+</aside>
+<footer>
+    <div style="background-color: forestgreen;"><h3>Happy Meal:</h3><br><strong></strong><p class="description">Fries + chicken nuggets + juice box</p><strong></strong></div>
+
+</footer>
+</body>
+</html>
